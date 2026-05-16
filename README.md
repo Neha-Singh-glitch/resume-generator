@@ -214,11 +214,11 @@ Do not copy, distribute, or use this code without explicit permission from the a
 
 This project was built with guidance and support from:
 
-| Name | Role | GitHub |
-|------|------|--------|
-| Neha Singh | Developer    | [@Neha-Singh-glitch](https://github.com/Neha-Singh-glitch) |
-| Person 2   | Collaborator | [@Amolnagaonkar](https://github.com/Amolnagaonkar)         |
-| Person 3   | Collabrator  | [@ramizdevelops](https://github.com/ramizdevelops)         |
+| Name            | Role         | GitHub                                                     |
+|-----------------|------------- |------------------------------------------------------------|
+| Neha Singh      | Developer    | [@Neha-Singh-glitch](https://github.com/Neha-Singh-glitch) |
+| Amolnagaonkar   | Collaborator | [@Amolnagaonkar](https://github.com/Amolnagaonkar)         |
+| Ramiz Shaikh    | Collabrator  | [@ramizdevelops](https://github.com/ramizdevelops)         |
 
 ---
 
