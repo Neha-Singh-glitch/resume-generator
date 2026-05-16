@@ -1,0 +1,47 @@
+\documentclass[letterpaper,11pt]{article}
+
+% ── Packages ──────────────────────────────────────────────────────────────────
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{fontenc}
+\usepackage{inputenc}
+\usepackage{parskip}
+
+% ── Section formatting ─────────────────────────────────────────────────────────
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{10pt}{6pt}
+
+% ── No page numbers ────────────────────────────────────────────────────────────
+\pagestyle{empty}
+
+\begin{document}
+
+% ── Header ────────────────────────────────────────────────────────────────────
+\begin{center}
+    {\LARGE \textbf{<<NAME>>}} \\[4pt]
+    {\large <<ROLE>>} \\[4pt]
+    \small
+    <<EMAIL>> \quad | \quad <<PHONE>> \quad | \quad <<LINKEDIN>>
+\end{center}
+
+% ── Summary ───────────────────────────────────────────────────────────────────
+\section{Summary}
+<<SUMMARY>>
+
+% ── Skills ────────────────────────────────────────────────────────────────────
+\section{Skills}
+<<SKILLS>>
+
+% ── Experience ────────────────────────────────────────────────────────────────
+\section{Experience}
+\begin{itemize}[leftmargin=*, itemsep=2pt]
+<<EXPERIENCE_ITEMS>>
+\end{itemize}
+
+% ── Projects ──────────────────────────────────────────────────────────────────
+\section{Projects}
+<<PROJECTS>>
+
+\end{document}

@@ -1,0 +1,54 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage[margin=0.75in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{xcolor}
+\usepackage{parskip}
+
+% ── Accent color ───────────────────────────────────────────────────────────────
+\definecolor{accent}{RGB}{102, 126, 234}
+
+% ── Section styling ────────────────────────────────────────────────────────────
+\titleformat{\section}
+  {\color{accent}\large\bfseries}{}{0em}{}
+  [\color{accent}\titlerule]
+\titlespacing{\section}{0pt}{12pt}{6pt}
+
+\pagestyle{empty}
+
+\begin{document}
+
+% ── Header ────────────────────────────────────────────────────────────────────
+\begin{center}
+  {\Huge \textbf{<<NAME>>}} \\[6pt]
+  {\large \color{accent} <<ROLE>>} \\[6pt]
+  \small <<EMAIL>> \ $\bullet$ \ <<PHONE>> \ $\bullet$ \ <<LINKEDIN>>
+\end{center}
+
+\vspace{4pt}
+\noindent\rule{\textwidth}{1.5pt}
+\vspace{2pt}
+
+% ── Summary ───────────────────────────────────────────────────────────────────
+\section{Professional Summary}
+<<SUMMARY>>
+
+% ── Skills ────────────────────────────────────────────────────────────────────
+\section{Technical Skills}
+\textbf{<<SKILLS>>}
+
+% ── Experience ────────────────────────────────────────────────────────────────
+\section{Experience}
+\begin{itemize}[leftmargin=*, itemsep=3pt]
+<<EXPERIENCE_ITEMS>>
+\end{itemize}
+
+% ── Projects ──────────────────────────────────────────────────────────────────
+\section{Projects}
+<<PROJECTS>>
+
+\end{document}

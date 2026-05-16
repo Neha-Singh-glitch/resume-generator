@@ -1,0 +1,40 @@
+\documentclass[letterpaper,10.5pt]{article}
+
+\usepackage[top=0.6in, bottom=0.6in, left=0.8in, right=0.8in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{parskip}
+
+\titleformat{\section}
+  {\small\bfseries\uppercase}{}{0em}{}
+  [\vspace{-6pt}\rule{\textwidth}{0.4pt}]
+\titlespacing{\section}{0pt}{10pt}{4pt}
+
+\pagestyle{empty}
+\setlist[itemize]{noitemsep, topsep=2pt}
+
+\begin{document}
+
+{\Large \textbf{<<NAME>>}} \hfill \small <<EMAIL>>\\
+{\small <<ROLE>>} \hfill \small <<PHONE>> $|$ <<LINKEDIN>>
+
+\vspace{6pt}
+
+\section{Summary}
+\small <<SUMMARY>>
+
+\section{Skills}
+\small <<SKILLS>>
+
+\section{Experience}
+\begin{itemize}[leftmargin=*]
+<<EXPERIENCE_ITEMS>>
+\end{itemize}
+
+\section{Projects}
+<<PROJECTS>>
+
+\end{document}

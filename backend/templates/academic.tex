@@ -1,0 +1,48 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{parskip}
+
+% ── Academic section styling ───────────────────────────────────────────────────
+\titleformat{\section}
+  {\large\scshape}{}{0em}{}
+  [\titlerule]
+\titlespacing{\section}{0pt}{14pt}{6pt}
+
+\pagestyle{empty}
+
+\begin{document}
+
+% ── Header ────────────────────────────────────────────────────────────────────
+\begin{center}
+  {\LARGE \textsc{<<NAME>>}} \\[6pt]
+  \small <<EMAIL>> \quad $\cdot$ \quad <<PHONE>> \quad $\cdot$ \quad <<LINKEDIN>> \\[4pt]
+  \textit{<<ROLE>>}
+\end{center}
+
+\vspace{4pt}
+
+% ── Summary ───────────────────────────────────────────────────────────────────
+\section{Research Interests \& Summary}
+<<SUMMARY>>
+
+% ── Skills ────────────────────────────────────────────────────────────────────
+\section{Skills \& Expertise}
+<<SKILLS>>
+
+% ── Experience ────────────────────────────────────────────────────────────────
+\section{Experience}
+\begin{itemize}[leftmargin=*, itemsep=4pt]
+<<EXPERIENCE_ITEMS>>
+\end{itemize}
+
+% ── Projects ──────────────────────────────────────────────────────────────────
+\section{Projects \& Research}
+<<PROJECTS>>
+
+\end{document}
