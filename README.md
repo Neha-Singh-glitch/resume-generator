@@ -197,7 +197,9 @@ Open → **http://localhost:5173**
 
 ## 📄 License
 
-MIT License — feel free to use this project for personal or commercial purposes.
+This project is **not open source**.  
+All rights reserved © 2025 Neha Singh.  
+Do not copy, distribute, or use this code without explicit permission from the author.
 
 ---
 
@@ -207,6 +209,23 @@ MIT License — feel free to use this project for personal or commercial purpose
 - [MiKTeX](https://miktex.org) — LaTeX compiler for Windows
 - [FastAPI](https://fastapi.tiangolo.com) — Python web framework
 - [Vite](https://vitejs.dev) — React build tool
+
+- ## 👥 Credits
+
+This project was built with guidance and support from:
+
+| Name | Role | GitHub |
+|------|------|--------|
+| Neha Singh | Developer    | [@Neha-Singh-glitch](https://github.com/Neha-Singh-glitch) |
+| Person 2   | Collaborator | [@Amolnagaonkar](https://github.com/Amolnagaonkar)         |
+| Person 3   | Collabrator  | [@ramizdevelops](https://github.com/ramizdevelops)         |
+
+---
+
+## 📬 Contact
+
+**Neha Singh**
+-  GitHub: [@Neha-Singh-glitch](https://github.com/Neha-Singh-glitch)
 
 
 
