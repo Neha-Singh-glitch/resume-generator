@@ -105,7 +105,7 @@ cp .env.example .env
 
 Edit `backend/.env`:
 
-## GROQ_API_KEY=your-groq-api-key-here
+GROQ_API_KEY=your-groq-api-key-here
 
 Get a free key at → https://console.groq.com/keys
 
@@ -151,6 +151,38 @@ Open → **http://localhost:5173**
 
 > Add screenshots here after deployment
 
+### 📄 Resume Generator
+<img width="282" height="812" alt="image" src="https://github.com/user-attachments/assets/a70ee8fd-5891-45ca-aa67-7e40309a4a0f" />
+
+### ✉️ Cover Letter Generator
+<img width="419" height="858" alt="image" src="https://github.com/user-attachments/assets/26121c39-8cd6-4aaa-a46f-84b41015ac98" />
+
+### 🎯 ATS Score Analyzer
+<img width="452" height="592" alt="image" src="https://github.com/user-attachments/assets/a70335b3-2931-49f8-8b85-67dd6b769560" />
+
+### 💼 Job Matcher
+<img width="363" height="886" alt="image" src="https://github.com/user-attachments/assets/17dd04e5-92e7-4723-90fa-df175f0157cb" />
+
+### 🌙 Dark Mode
+
+### 📄 Resume Generator
+<img width="331" height="826" alt="image" src="https://github.com/user-attachments/assets/32a90da9-d524-4a70-b2d7-ebb35ae02799" />
+
+### ✉️ Cover Letter Generator
+<img width="293" height="652" alt="image" src="https://github.com/user-attachments/assets/1a9e1a94-1b33-4f20-8ef3-206c21cd0d1f" />
+
+### 🎯 ATS Score Analyzer
+<img width="334" height="420" alt="image" src="https://github.com/user-attachments/assets/a7a10f29-8820-4970-8da0-6276a1df1546" />
+
+### 💼 Job Matcher
+<img width="286" height="868" alt="image" src="https://github.com/user-attachments/assets/6422bab4-cb79-4ee7-b906-858db7c44fd8" />
+
+
+
+
+
+
+
 ---
 
 ## 🤝 Contributing
@@ -175,15 +207,6 @@ MIT License — feel free to use this project for personal or commercial purpose
 - [MiKTeX](https://miktex.org) — LaTeX compiler for Windows
 - [FastAPI](https://fastapi.tiangolo.com) — Python web framework
 - [Vite](https://vitejs.dev) — React build tool
-
-## To add it to your repo: 
-
-# In resume-generator/ root folder
-# Create README.md and paste the content above, then:
-
-git add README.md
-git commit -m "Add README"
-git push
 
 
 
