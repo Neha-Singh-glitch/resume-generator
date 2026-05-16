@@ -29,6 +29,7 @@ A full-stack web app that uses AI to generate, improve, and tailor professional 
 
 ## 📁 Project Structure
 
+```
 resume-generator/
 ├── backend/
 │   ├── main.py                  # FastAPI app + all endpoints
@@ -47,17 +48,17 @@ resume-generator/
 │   ├── .env.example             # Environment variable template
 │   └── requirements.txt
 └── frontend/
-└── src/
-├── App.jsx
-├── App.css
-└── components/
-├── ResumeForm.jsx
-├── CoverLetterForm.jsx
-├── TemplateSelector.jsx
-├── PDFPreview.jsx
-├── ATSScorer.jsx
-└── JobMatcher.jsx
-
+    └── src/
+        ├── App.jsx
+        ├── App.css
+        └── components/
+            ├── ResumeForm.jsx
+            ├── CoverLetterForm.jsx
+            ├── TemplateSelector.jsx
+            ├── PDFPreview.jsx
+            ├── ATSScorer.jsx
+            └── JobMatcher.jsx
+```
 ---
 
 ## 🚀 Getting Started
