@@ -1,21 +1,21 @@
-# ⚡ AI Resume Generator
+#  AI Resume Generator
 
 A full-stack web app that uses AI to generate, improve, and tailor professional resumes and cover letters — exported as downloadable PDFs.
 
-## ✨ Features
+##  Features
 
-- 📄 **Resume Generator** — AI improves your raw input into achievement-based bullet points
-- ✉️ **Cover Letter Generator** — AI writes a professional cover letter with tone selection
-- 🎯 **ATS Score Analyzer** — AI rates how well your resume matches a job description
-- 💼 **Job Matcher** — AI tailors your resume specifically for a job posting
-- 🎨 **3 LaTeX Templates** — Modern, Minimal, Academic
-- 👁️ **Live PDF Preview** — See your resume before downloading
-- 🌙 **Dark Mode** — Toggle between light and dark UI
-- ⬇️ **PDF Download** — One-click download of generated resume
+-  **Resume Generator** — AI improves your raw input into achievement-based bullet points
+-  **Cover Letter Generator** — AI writes a professional cover letter with tone selection
+-  **ATS Score Analyzer** — AI rates how well your resume matches a job description
+-  **Job Matcher** — AI tailors your resume specifically for a job posting
+-  **3 LaTeX Templates** — Modern, Minimal, Academic
+-  **Live PDF Preview** — See your resume before downloading
+-  **Dark Mode** — Toggle between light and dark UI
+-  **PDF Download** — One-click download of generated resume
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer     | Technology                        |
 |-----------|-----------------------------------|
@@ -27,7 +27,7 @@ A full-stack web app that uses AI to generate, improve, and tailor professional 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 resume-generator/
@@ -61,7 +61,7 @@ resume-generator/
 ```
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -147,34 +147,34 @@ Open → **http://localhost:5173**
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 > Add screenshots here after deployment
 
-### 📄 Resume Generator
+###  Resume Generator
 <img width="282" height="812" alt="image" src="https://github.com/user-attachments/assets/a70ee8fd-5891-45ca-aa67-7e40309a4a0f" />
 
-### ✉️ Cover Letter Generator
+###  Cover Letter Generator
 <img width="419" height="858" alt="image" src="https://github.com/user-attachments/assets/26121c39-8cd6-4aaa-a46f-84b41015ac98" />
 
-### 🎯 ATS Score Analyzer
+###  ATS Score Analyzer
 <img width="452" height="592" alt="image" src="https://github.com/user-attachments/assets/a70335b3-2931-49f8-8b85-67dd6b769560" />
 
-### 💼 Job Matcher
+###  Job Matcher
 <img width="363" height="886" alt="image" src="https://github.com/user-attachments/assets/17dd04e5-92e7-4723-90fa-df175f0157cb" />
 
-### 🌙 Dark Mode
+###  Dark Mode
 
-### 📄 Resume Generator
+###  Resume Generator
 <img width="331" height="826" alt="image" src="https://github.com/user-attachments/assets/32a90da9-d524-4a70-b2d7-ebb35ae02799" />
 
-### ✉️ Cover Letter Generator
+###  Cover Letter Generator
 <img width="293" height="652" alt="image" src="https://github.com/user-attachments/assets/1a9e1a94-1b33-4f20-8ef3-206c21cd0d1f" />
 
-### 🎯 ATS Score Analyzer
+###  ATS Score Analyzer
 <img width="334" height="420" alt="image" src="https://github.com/user-attachments/assets/a7a10f29-8820-4970-8da0-6276a1df1546" />
 
-### 💼 Job Matcher
+###  Job Matcher
 <img width="286" height="868" alt="image" src="https://github.com/user-attachments/assets/6422bab4-cb79-4ee7-b906-858db7c44fd8" />
 
 
