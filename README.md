@@ -139,7 +139,7 @@ Open → **http://localhost:5173**
 
 ---
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 | Variable       | Description              | Required |
 |----------------|--------------------------|----------|
@@ -185,7 +185,7 @@ Open → **http://localhost:5173**
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repo
 2. Create a feature branch (`git checkout -b feature/my-feature`)
@@ -195,7 +195,7 @@ Open → **http://localhost:5173**
 
 ---
 
-## 📄 License
+##  License
 
 This project is **not open source**.  
 All rights reserved © 2025 Neha Singh.  
