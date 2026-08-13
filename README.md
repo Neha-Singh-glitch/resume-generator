@@ -203,14 +203,14 @@ Do not copy, distribute, or use this code without explicit permission from the a
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - [Groq](https://groq.com) — Free LLaMA 3.3 API
 - [MiKTeX](https://miktex.org) — LaTeX compiler for Windows
 - [FastAPI](https://fastapi.tiangolo.com) — Python web framework
 - [Vite](https://vitejs.dev) — React build tool
 
-- ## 👥 Credits
+- ##  Credits
 
 This project was built with guidance and support from:
 
@@ -222,7 +222,7 @@ This project was built with guidance and support from:
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Neha Singh**
 -  GitHub: [@Neha-Singh-glitch](https://github.com/Neha-Singh-glitch)
